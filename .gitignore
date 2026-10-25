@@ -1,0 +1,19 @@
+# App builds are downloaded, never committed
+apps/*.apk
+apps/*.app/
+apps/*.zip
+apps/*.ipa
+
+# Build output and logs
+target/
+test-output/
+*.log
+
+# IDE / OS
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- One device = one session at a time, so tests run sequentially. -->
+<suite name="Mobile Regression">
+    <test name="My Demo App">
+        <classes>
+            <class name="com.qa.tests.PurchaseFlowTest"/>
+            <class name="com.qa.tests.CartTest"/>
+            <class name="com.qa.tests.ProductTest"/>
+            <class name="com.qa.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>

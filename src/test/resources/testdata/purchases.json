@@ -1,0 +1,6 @@
+[
+  { "id": "PUR-01", "product": "Sauce Labs Backpack",      "quantity": 1, "run": true },
+  { "id": "PUR-02", "product": "Sauce Labs Bike Light",    "quantity": 3, "run": true },
+  { "id": "PUR-03", "product": "Sauce Labs Fleece Jacket", "quantity": 2, "run": true },
+  { "id": "PUR-04", "product": "Sauce Labs Onesie",        "quantity": 1, "run": false }
+]
